@@ -27,6 +27,7 @@ The dataset contains loan application details such as:
    - Correlation heatmap for numerical features.
 
 3. **Model Training & Evaluation**
+   
    Implemented machine learning models:
    - **K-Nearest Neighbors (KNN)** → Hyperparameter tuning on `k`.
    - **Support Vector Machine (SVM)** → Tested with different `C` values.
@@ -36,7 +37,7 @@ The dataset contains loan application details such as:
 
    Each model was evaluated using **accuracy score** on the test set.
 
-4. **Model Comparison**
+5. **Model Comparison**
    - Accuracy results of all models were compared.
    - Best-performing model identified for loan approval prediction.
 
